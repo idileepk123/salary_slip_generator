@@ -2,7 +2,10 @@
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
+<<<<<<< HEAD
   "homepage": "https://dileepkumar.github.io/salary-slip-generator",
+=======
+>>>>>>> 3d8a23148107b996e3ac154ea72caae82f997a8e
   "type": "module",
   "scripts": {
     "dev": "vite",
